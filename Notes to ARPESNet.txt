@@ -1,0 +1,12 @@
+Mistakes in the code for ARPESNet training "ARPESNet.py"
+    Line 30. SPLIT_RATIO
+    Why is both values there when only the last number is used?
+
+
+Things that could be looked at:
+    Have there ever been a discusion about using reinforsed learning to futher minimise the big differences and rewarding it for creating a more uniformly spread.
+
+    The ARPESNet creates (probaly) better results, but is it better and faster than a simple denoiser algorithm.
+
+
+Tager de for meget data.
